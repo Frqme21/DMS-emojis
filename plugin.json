@@ -1,0 +1,13 @@
+{
+  "id": "emojiShortcode",
+  "name": "Emoji Shortcodes",
+  "description": "Type :shortcode: to copy emojis from the launcher",
+  "version": "1.0.0",
+  "author": "frqme",
+  "icon": "mood",
+  "type": "launcher",
+  "trigger": ":",
+  "viewMode": "list",
+  "component": "./EmojiShortcode.qml",
+  "permissions": ["process"]
+}
