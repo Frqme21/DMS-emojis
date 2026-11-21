@@ -2,7 +2,7 @@
 set -e
 
 PLUGIN_DIR="$HOME/.config/dms/plugins/EmojiShortcode"
-REPO_URL="https://github.com"
+REPO_URL="https://github.com/Frqme21/DMS-emojis.git"
 
 mkdir -p "$HOME/.config/dms/plugins"
 
